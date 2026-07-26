@@ -1,0 +1,6 @@
+@Apitarefas_HostAddress = http://localhost:5138
+
+GET {{Apitarefas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
