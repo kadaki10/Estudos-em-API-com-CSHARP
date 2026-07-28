@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apitarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae0cfd3b29a3d47fbd18e08d903fe939b7f41fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bc6b399d02e4399f6112ee45757fa2722be0127")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apitarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apitarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
